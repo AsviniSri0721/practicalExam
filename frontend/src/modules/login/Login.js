@@ -107,7 +107,7 @@ class Login extends Component {
                                 </h5>
 
                                 <p className={"text-white-50"}>
-                                    Sign into Application
+                                    Sign into Application !!!
                                 </p>
 
                                 <img src={"https://www.strunkmedia.com/wp-content/uploads/2018/05/bigstock-Print-163213010.png"} height="50" alt="logo" />
